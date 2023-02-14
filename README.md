@@ -15,7 +15,7 @@ The same idea was developed two separate systems in two different languages: Pyt
 
 ## Screenshots
 Python Language run:
-![Example screenshot](ex1.jpg)
+![Example screenshot](ex1.png)
 Prolog Language run:
 ![Example screenshot](ex2.png)
 
