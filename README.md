@@ -17,6 +17,7 @@ The same idea was developed two separate systems in two different languages: Pyt
 Python Language run:
 
 ![Example screenshot](ex1.png)
+
 Prolog Language run:
 
 ![Example screenshot](ex2.png)
